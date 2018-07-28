@@ -121,3 +121,7 @@ iTunesArtwork@2x.png
 
 1536x1536
 
+# 华康娃娃字体
+http://www.diyiziti.com/builder/108
+http://www.diyiziti.com/
+
